@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'LoveCraftFont';
+  src: url('fonts/LoveCraftFont.ttf') format('truetype');
+}
+
+.lovecraft-text {
+  font-family: 'LoveCraftFont', sans-serif;
+}
+
+
+
+
